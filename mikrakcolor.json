@@ -3,7 +3,18 @@
    "message": "Hai there is new update for this app please download!",
    "redirectUrl": "",
    "moreApps": [
-      
+      {
+         "title": "Sonii Exe Coloring",
+         "description": "Sonii Exe Coloring",
+         "thumb": "https://play-lh.googleusercontent.com/f7941xNQCbkcZ8DmHlC7s--ezcVUIsBkGy3sZryxPnTlktuRyGNeEn6J_yce3R8oc_8Z=s180-rw",
+         "url": "https://play.google.com/store/apps/details?id=com.soniexebom.coloringcartoonhero"
+      },
+      {
+         "title": "Encanto coloring cartoon",
+         "description": "Best sans under coloring tales book games",
+         "thumb": "https://play-lh.googleusercontent.com/yzJVlwjxR61K0y4udPC2vkihaEivR3-dmgdg58RRo7wugrQ1A4rNitSU1MN5yuq4Pw=s180-rw",
+         "url": "https://play.google.com/store/apps/details?id=com.coloringencanto.beautymadrigalcartoon"
+      }
       
    ]
 }
